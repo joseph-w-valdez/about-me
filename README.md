@@ -20,7 +20,18 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Southern California.
+Hello! My name is Joseph and I am a software engineer in Southern California. 
+
+I'd love to contribute to any projects and applications that have a positive impact on the community.
+ 
+Before entering the tech industry, I worked in the healthcare field for several years. Over this time, I gained a strong work ethic, with great admiration for the strong teamwork, coordination, and problem-solving that it entailed. I was introduced to the software development world by friends who suggested it due to its similarities to the medical field in the ways that I loved it. 
+
+After months of soul-searching, self-studying, and research into the field, I decided to delve into it further and immerse myself in a boot camp program, and I have continued loving it since!
+
+I'm excited to keep moving forward in this industry, solving problems with a like-minded group of teammates, and continuing this path of ongoing growth! 
+ 
+I’d love to connect! 
+
 - :telescope: Build frontend, backend, and full-stack web applications.
 
 - :seedling: Always striving to learn more.
